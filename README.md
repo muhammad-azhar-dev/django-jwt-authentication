@@ -104,15 +104,15 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",  # React or frontend URL
 ]
 ```
+<h1>Note:</h1>
+  I have also added the exported postman file which you can import in postman and test the API's
 
 ## Contributing
 Feel free to fork this repository and submit a pull request with improvements.
 
 ## License
 This project is licensed under the MIT License.
-
 ---
-
 ⭐ Don't forget to star this repository if you find it helpful!
 
 

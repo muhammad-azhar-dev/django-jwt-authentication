@@ -21,7 +21,7 @@ A complete JWT authentication system built using Django and Django Rest Framewor
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/muhammad-azhar9920/django-jwt-authentication.git
+git clone https://github.com/muhammad-azhar-dev/django-jwt-authentication.git
 cd django_auth
 ```
 
